@@ -19,7 +19,7 @@ A practical small project of Tuya Smart
 - 加入语音模块提升智能化,主人可通过指定的命令对小夜灯、风扇、控制粮食进出的电机的联动开关。
 - 主人可通过app远程查看设备投喂状态,命令下发等功能,真正做到了在哪都能保护好自己的爱宠。
 ## 六、方案实施流程
-！[方案实施流程]
+！[方案实施流程]https://github.com/potato1643/tuya-smart/blob/main/images/Petnet.png
 ## 七、开发计划
 > 1.硬件搭建
 >- 3.4-3.7 准备材料,器件选型及采购 
